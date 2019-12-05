@@ -6,11 +6,11 @@ FaceSRnDeblur based on generative adversarial network. We first increase the spa
 ![Ntw](./img/Network.png)
 
 ## Results on Synthetic datasets
-![SynR](./img/synthetic_results.png){: width="100" height="100"}
+![SynR](./img/synthetic_results.png,width="100%")
 
 ## Results on real data from YouTube
-![YR](./img/Youtube_results.png){: width="100" height="100"}
+![YR](./img/Youtube_results.png,width="100%")
 
 ## Comparison results with SOTA
-![CompR](./img/comparison_results.png){: width="100" height="100"}
+![CompR](./img/comparison_results.png,width="100%")
 
