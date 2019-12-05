@@ -6,11 +6,21 @@ FaceSRnDeblur based on generative adversarial network. We first increase the spa
 ![Ntw](./img/Network.png)
 
 ## Results on Synthetic datasets
-![SynR](./img/synthetic_results.png,width="100%")
+![SynR](./img/synthetic_results.png)
 
 ## Results on real data from YouTube
-![YR](./img/Youtube_results.png,width="100%")
+![YR](./img/Youtube_results.png)
 
 ## Comparison results with SOTA
-![CompR](./img/comparison_results.png,width="100%")
+![CompR](./img/comparison_results.png)
 
+## Landmark detection results
+![lmR](./img/lmdetection_results.png)
+
+## Parsing map estimation results
+![pmR](./img/pmestimation_results.png)
+
+## Prerequisites
+* Python 3.5
+* Pytorch
+* OpenCV
