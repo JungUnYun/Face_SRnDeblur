@@ -14,6 +14,9 @@ FaceSRnDeblur based on generative adversarial network. We first increase the spa
 ## Comparison results with SOTA
 ![CompR1](./img/comparison_results_.png)
 
+## Comparison of noise effect
+![CompN](./img/noise_results.png)
+
 ## Landmark detection results
 ![lmR](./img/lmdetection_results.png)
 
