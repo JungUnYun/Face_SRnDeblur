@@ -27,4 +27,3 @@ FaceSRnDeblur based on generative adversarial network. We first increase the spa
 * Python 3.5
 * Pytorch
 * OpenCV
- 
