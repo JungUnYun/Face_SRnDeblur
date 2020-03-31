@@ -25,6 +25,12 @@ FaceSRnDeblur based on generative adversarial network. We first increase the spa
 ## Parsing map estimation results
 ![pmR](./img/pmestimation_results.png)
 
+## Quantitative comparison results
+![QcR](./img/quantitative_results.png)
+
+## Accuracy of face recognition
+![AfrR](./img/recognition_results.png)
+
 ## Prerequisites
 * Python 3.5
 * Pytorch
