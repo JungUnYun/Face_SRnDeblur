@@ -26,7 +26,7 @@ FaceSRnDeblur based on generative adversarial network. We first increase the spa
 ## Landmark Detection Results
 ![lmR](./img/lmdetection_results.png)
 
-## Parsing map Estimation Results
+## Parsing Map Estimation Results
 ![pmR](./img/pmestimation_results.png)
 
 ## Quantitative Comparison Results
